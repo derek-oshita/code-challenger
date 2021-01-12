@@ -1,0 +1,19 @@
+{
+  "name": "code-challenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derek-oshita/code-challenger.git"
+  },
+  "author": "Derek Oshita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derek-oshita/code-challenger/issues"
+  },
+  "homepage": "https://github.com/derek-oshita/code-challenger#readme"
+}

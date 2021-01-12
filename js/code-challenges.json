@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "title": "Two Sum", 
+            "description": "Given an array of numbers and a target value, return an array where the elements represent the indexes of two numbers that equal the target.", 
+            "input": [[2, 7, 11, 15], 9],  
+            "output": [0, 1]
+        }, 
+        {
+            "title": "Reverse Number", 
+            "description": "Given a number, return that number in reverse so that the last digit becomes the first digit.", 
+            "input": 321, 
+            "output": 123
+        }
+    ]
+}
